@@ -24,7 +24,7 @@ All notable changes to this project will be documented in this file, in reverse 
 
 - Nothing.
 
-## 2.7.4 - TBD
+## 2.7.4 - 2020-03-29
 
 ### Added
 
@@ -44,7 +44,7 @@ All notable changes to this project will be documented in this file, in reverse 
 
 ### Fixed
 
-- Nothing.
+- Fixed `replace` version constraint in composer.json so repository can be used as replacement of `zendframework/zend-mime:^2.7.2`.
 
 ## 2.7.3 - 2020-03-06
 
